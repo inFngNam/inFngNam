@@ -8,11 +8,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inFngNam&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=inFngNam&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:inf.ng.nam@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/oinfamous)
