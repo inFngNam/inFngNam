@@ -1,7 +1,9 @@
 ## Where Have You Been? :rofl: :rofl:
 ---
 ### Let me talk about myself :love_you_gesture:
-My name is Nam and I'm currently a student at Vietnam National University - University of Engineering and Technology (VNU-UET). I want to become a full-stack mobile development and luckily I enjoy coding :+1:
+My name is Nam and I'm currently a student at Vietnam National University - University of Engineering and Technology (VNU-UET).
+
+I want to become a full-stack mobile development and luckily I enjoy coding :+1:
 
 6 words to describe myself:
 - :one: Diligent
@@ -12,31 +14,42 @@ My name is Nam and I'm currently a student at Vietnam National University - Univ
 - :six: Studious
 
 More about me:
-:vietnam: :leo: :video_game: :headphones: :beach_umbrella:
+
+:vietnam:
+:leo: 
+:video_game:
+:headphones:
+:beach_umbrella:
 
 ---
-### :computer: Tools, Programming Language, blah blah :
-![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg =40x40)
-![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg =40x40)
-![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg =40x40)
-![Atom](https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg =40x40)
-![Android Studio](https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg =40x40)
-![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg =40x40)
-![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg =40x40)
-![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg =48x48)
-![Git](https://www.vectorlogo.zone/logos/git/git-icon.svg =48x48)
-![PostMan](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg =48x48)
-![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg =48x48)
-![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg =40x40)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =48x48)
-![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg =40x40)
-![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg =40x40)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg =40x40)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg =40x40)
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg =40x40)
-![FireFox](https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg =40x40)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg =40x40)
-![Magento2](https://cdn.worldvectorlogo.com/logos/magento-2.svg =40x40)
+### :computer: Tools, Programming Language, OSs, IDEs:
+<p align="left">
+<img src=https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/android/android-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg width="48" height="48"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/github/github-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/php/php-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg width="48" height="48"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg width="48" height="48"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg width="48" height="48"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg width="48" height="48"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg width="48" height="48"/>
+<img src=https://www.vectorlogo.zone/logos/golang/golang-icon.svg width="48" height="48"/>
+<img src=https://cdn.worldvectorlogo.com/logos/magento-2.svg width="48" height="48"/>
+</p>
 
 ---
 ### Some of my stats
