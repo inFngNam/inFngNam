@@ -3,7 +3,7 @@
 ### Let me talk about myself :love_you_gesture:
 My name is Nam and I'm currently a student at Vietnam National University - University of Engineering and Technology (VNU-UET).
 
-I want to become a full-stack mobile development and luckily I enjoy coding :+1:
+<!-- I want to become a full-stack mobile development and luckily I enjoy coding :+1:
 
 6 words to describe myself:
 - :one: Diligent
@@ -19,7 +19,7 @@ More about me:
 :leo: 
 :video_game:
 :headphones:
-:beach_umbrella:
+:beach_umbrella: -->
 
 ---
 ### :computer: Tools, Programming Language, OSs, IDEs:
