@@ -23,11 +23,24 @@ More about me:
 
 ---
 ### :computer: Tools, Programming Language, OSs, IDEs:
+
+#### Favorite text editor
+
+<img src=https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg width="48" height="48"/>
+
+#### Favorite OS:
+
+<img src=https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg width="48" height="48"/>
+
+#### Most Used Database
+
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg width="48" height="48"/>
+
+### Used tools, programming language, OSs, IDEs
 <p align="left">
 <img src=https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/android/android-icon.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg width="48" height="48"/>
-<img src=https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg width="48" height="48"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg width="48" height="48"/>
@@ -43,7 +56,6 @@ More about me:
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg width="48" height="48"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg width="48" height="48"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg width="48" height="48"/>
 <img src=https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg width="48" height="48"/>
