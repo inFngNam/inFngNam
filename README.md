@@ -1,9 +1,7 @@
-## Where Have You Been? :rofl: :rofl:
----
+<!-- ## Where Have You Been? :rofl: :rofl:
+
 ### Let me talk about myself :love_you_gesture:
 My name is Nam and I'm currently a student at Vietnam National University - University of Engineering and Technology (VNU-UET).
-
-<!-- I want to become a full-stack mobile development and luckily I enjoy coding :+1:
 
 6 words to describe myself:
 - :one: Diligent
@@ -19,7 +17,7 @@ More about me:
 :leo: 
 :video_game:
 :headphones:
-:beach_umbrella: -->
+:beach_umbrella:
 
 ---
 ### :computer: Tools, Programming Language, OSs, IDEs:
@@ -77,17 +75,8 @@ More about me:
 
 See ya!!
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FinFngNam%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FinFngNam%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=inFngNam&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=inFngNam&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
